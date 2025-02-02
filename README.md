@@ -27,8 +27,8 @@ Este projeto faz parte de uma aula prática para a turma de **Desenvolvimento We
 ```
 📁 lista-participantes
 │── 📄 index.html       → Estrutura da página
-│── 📄 style.css        → Estilização
-│── 📄 script.js        → Lógica da aplicação
+│── 📄 index.css        → Estilização
+│── 📄 index.js        → Lógica da aplicação
 ```
 
 ---
@@ -69,6 +69,6 @@ Este projeto foi desenvolvido para alunos da **ETEC**, como parte do curso de **
 
 ## 🔗 Contato
 📧 Email: alessandro.vitorio@etec.gov.sp.br<br>
-🐙 GitHub: [Seu Perfil](https://github.com/alevitorio)<br>
-🚀 LinkedIn: [Seu Nome](https://www.linkedin.com/in/alessandrovitorio/)
+🐙 GitHub: [alevitorio](https://github.com/alevitorio)<br>
+🚀 LinkedIn: [Alessandro](https://www.linkedin.com/in/alessandrovitorio/)
 
