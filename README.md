@@ -46,10 +46,6 @@ git clone https://github.com/seu-usuario/lista-participantes.git
 
 4. **Clique no botão "Fazer Check-in" para marcar a presença do participante.**
 
-5. **Use o campo de busca para filtrar os participantes.**
-
-6. **Para remover um participante, clique no botão "Remover".**
-
 ---
 
 ## 📚 Aprendizados
