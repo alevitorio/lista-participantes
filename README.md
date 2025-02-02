@@ -18,8 +18,7 @@ Este projeto faz parte de uma aula prática para a turma de **Desenvolvimento We
 - ✅ Adicionar participantes à lista.
 - ✅ Exibir os participantes cadastrados.
 - ✅ Marcar check-in de um participante.
-- ✅ Filtrar participantes por nome ou e-mail.
-- ✅ Remover participantes da lista.
+
 
 ---
 
